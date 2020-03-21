@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://regent0.github.io</id>
     <title>Regent0</title>
-    <updated>2020-03-21T16:11:47.433Z</updated>
+    <updated>2020-03-21T16:19:03.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://regent0.github.io"/>
     <link rel="self" href="https://regent0.github.io/atom.xml"/>
@@ -17,27 +17,28 @@
         </link>
         <updated>2020-03-21T13:45:12.000Z</updated>
         <content type="html"><![CDATA[<!DOCTYPE html>
- <html>
-    <head>
-		<meta charset="UTF-8">
-    <head>
-	</head>
-	<script type="text/javascript">
-		function nowtime(){
-			dd=new Date();
-			document.F1.T1.value=dd.toLocaleString();
-			window.setTimeout("nowtime()",1000);
-		}
-	</script>
-	</head>
-	<body onLoad="nowtime()"align="center">
-		<form name="F1" action="#">
-			当前时间是：
-			<input type="text" name="T1" class="text1" />
-		</form>
-		<p align="center"><span id="runtime_span"></span>
-	</body>
-</html>]]></content>
+<pre><code>&lt;html&gt;
+&lt;head&gt;
+	&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;head&gt;
+&lt;/head&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+	function nowtime(){
+		dd=new Date();
+		document.F1.T1.value=dd.toLocaleString();
+		window.setTimeout(&quot;nowtime()&quot;,1000);
+	}
+&lt;/script&gt;
+&lt;/head&gt;
+&lt;body onLoad=&quot;nowtime()&quot;align=&quot;center&quot;&gt;
+	&lt;form name=&quot;F1&quot; action=&quot;#&quot;&gt;
+		当前时间是：
+		&lt;input type=&quot;text&quot; name=&quot;T1&quot; class=&quot;text1&quot; /&gt;
+	&lt;/form&gt;
+	&lt;p align=&quot;center&quot;&gt;&lt;span id=&quot;runtime_span&quot;&gt;&lt;/span&gt;
+&lt;/body&gt;
+&lt;/html&gt;</code></pre>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
