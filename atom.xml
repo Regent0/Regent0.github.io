@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://regent0.github.io</id>
-    <title>Regent0</title>
-    <updated>2020-03-21T16:36:04.852Z</updated>
+    <title>Regent</title>
+    <updated>2020-03-21T17:59:09.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://regent0.github.io"/>
     <link rel="self" href="https://regent0.github.io/atom.xml"/>
     <subtitle>24k纯帅</subtitle>
     <logo>https://regent0.github.io/images/avatar.png</logo>
     <icon>https://regent0.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Regent0</rights>
+    <rights>All rights reserved 2020, Regent</rights>
     <entry>
         <title type="html"><![CDATA[6666]]></title>
         <id>https://regent0.github.io/post/6666/</id>
@@ -19,21 +19,11 @@
         <content type="html"><![CDATA[<!DOCTYPE html>
 <html>
     <head>
-<script type="text/javascript">
-		function nowtime(){
-			dd=new Date();
-			document.F1.T1.value=dd.toLocaleString();
-			window.setTimeout("nowtime()",1000);
-		}
-	</script>
-	</head>
-<body onLoad="nowtime()"align="center">
-		<form name="F1" action="#">
-			当前时间是：
-			<input type="text" name="T1" class="text1" />
-		</form>
-		<p align="center"><span id="runtime_span"></span>
-	</body>
+    	<meta charset="UTF-8">
+      <div id="sj" align="center"></div>
+<script >setInterval("sj.innerHTML=new Date().toLocaleString()+' 星期'+'日一二三四五六'.charAt(new Date().getDay());",1000);
+</script>
+    </body>
 </html>]]></content>
     </entry>
     <entry>
