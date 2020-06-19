@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://regent0.github.io</id>
     <title>Regent</title>
-    <updated>2020-06-19T19:49:06.216Z</updated>
+    <updated>2020-06-19T20:07:56.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://regent0.github.io"/>
     <link rel="self" href="https://regent0.github.io/atom.xml"/>
@@ -61,7 +61,7 @@ body,ul,li{margin:0;padding:0;}
  <ul class="box">  
   <li><a href="http://chahuo.com/" title="查获">查获</a></li>  
   <li><a href="http://kcblog.top/gj/tg/" title="舔狗">
-  <img src="http://kcblog.top/gj/tg/assets/images/logo.gif"/>舔狗</a></li>  
+  <img src="http://kcblog.top/gj/tg/assets/images/logo.gif"/></a></li>  
   <li><a href="http://binmt.cc/BullshitGenerator/" title="狗屁不通文章">狗屁不通文章</a></li>  
   <!--<li><a href="#" title="4"></a></li>  
   <li><a href="#" title="5"><img src="tb.jpg"/></a></li>  
