@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://regent0.github.io</id>
     <title>Regent</title>
-    <updated>2020-06-19T18:03:51.373Z</updated>
+    <updated>2020-06-19T18:43:26.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://regent0.github.io"/>
     <link rel="self" href="https://regent0.github.io/atom.xml"/>
@@ -10,6 +10,75 @@
     <logo>https://regent0.github.io/images/avatar.png</logo>
     <icon>https://regent0.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Regent</rights>
+    <entry>
+        <title type="html"><![CDATA[快速进入]]></title>
+        <id>https://regent0.github.io/post/kuai-su-jin-ru/</id>
+        <link href="https://regent0.github.io/post/kuai-su-jin-ru/">
+        </link>
+        <updated>2020-06-19T18:04:24.000Z</updated>
+        <content type="html"><![CDATA[<!DOCTYPE html>  
+<html>  
+<head>  
+<meta charset="utf-8">  
+<title>全兼容的HTML九宫格布局</title>  
+<meta http-equiv="X-UA-Compatible" content="IE=edge">  
+</head>  
+<body>  
+<html>  
+<head>  
+<style type="text/css">  
+/** 重置浏览器默认标签样式 */   
+body,ul,li{margin:0;padding:0;}   
+.xttblog{   
+ width: 1200px;   
+ height: 170px;   
+ margin-top:50px;   
+ margin-left: auto;   
+ margin-right: auto;   
+}   
+.box{margin-left: 5px;margin-top: 5px;list-style-type:none;}   
+.box:after{   
+ content: ".";   
+ display: block;   
+ line-height: 0;   
+ width:0;   
+ height: 0;   
+ clear: both;   
+ visibility: hidden;   
+ overflow: hidden;   
+}   
+.box li{float:left;line-height: 230px;}   
+.box li a,.box li a:visited{   
+ display:block;   
+ border: 5px solid #ccc;   
+ width: 380px;   
+ height: 230px;   
+ text-align: center;   
+ margin-left: -5px;   
+ margin-top: -5px;   
+ position: relative;   
+ z-index: 1;   
+}   
+.box li a:hover{border-color: #f00;z-index: 2;}   
+</style>  
+</head>  
+<body>  
+<div class="xttblog">  
+ <ul class="box">  
+  <li><a href="baidu.com" title="1"><img src="baidu.com.jpg"/></a></li>  
+  <li><a href="#" title="2"><img src="bd.jpg"/></a></li>  
+  <li><a href="#" title="3"><img src="tb.jpg"/></a></li>  
+  <li><a href="#" title="4"><img src="fh.jpg"/></a></li>  
+  <li><a href="#" title="5"><img src="tb.jpg"/></a></li>  
+  <li><a href="#" title="6"><img src="tb.jpg"/></a></li>  
+  <li><a href="#" title="7"><img src="tb.jpg"/></a></li>  
+  <li><a href="#" title="8"><img src="tb.jpg"/></a></li>  
+  <li><a href="#" title="9"><img src="tb.jpg"/></a></li>  
+ </ul>  
+</div>  
+</body>  
+</html> ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6666]]></title>
         <id>https://regent0.github.io/post/6666/</id>
