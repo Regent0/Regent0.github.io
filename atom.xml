@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://regent0.github.io</id>
     <title>Regent</title>
-    <updated>2021-04-05T16:18:19.488Z</updated>
+    <updated>2021-04-08T12:44:53.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://regent0.github.io"/>
     <link rel="self" href="https://regent0.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://regent0.github.io/images/avatar.png</logo>
     <icon>https://regent0.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Regent</rights>
+    <entry>
+        <title type="html"><![CDATA[“没时间” 不是借口]]></title>
+        <id>https://regent0.github.io/post/mei-shi-jian-bu-shi-jie-kou/</id>
+        <link href="https://regent0.github.io/post/mei-shi-jian-bu-shi-jie-kou/">
+        </link>
+        <updated>2021-04-05T16:31:22.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[42个锻炼大脑的方法，你想不聪明都不行！]]></title>
+        <id>https://regent0.github.io/post/42-ge-duan-lian-da-nao-de-fang-fa-ni-xiang-bu-cong-ming-du-bu-xing/</id>
+        <link href="https://regent0.github.io/post/42-ge-duan-lian-da-nao-de-fang-fa-ni-xiang-bu-cong-ming-du-bu-xing/">
+        </link>
+        <updated>2021-04-05T16:29:51.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你凭什么能过上你想要的生活？]]></title>
+        <id>https://regent0.github.io/post/ni-ping-shi-me-neng-guo-shang-ni-xiang-yao-de-sheng-huo/</id>
+        <link href="https://regent0.github.io/post/ni-ping-shi-me-neng-guo-shang-ni-xiang-yao-de-sheng-huo/">
+        </link>
+        <updated>2021-04-05T16:28:19.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用A4纸笔记法100天增强逻辑思维]]></title>
         <id>https://regent0.github.io/post/shi-yong-a4-zhi-bi-ji-fa-100-tian-zeng-qiang-luo-ji-si-wei/</id>
