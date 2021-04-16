@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://regent0.github.io</id>
     <title>Regent</title>
-    <updated>2021-04-10T14:03:04.526Z</updated>
+    <updated>2021-04-16T07:47:43.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://regent0.github.io"/>
     <link rel="self" href="https://regent0.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://regent0.github.io/images/avatar.png</logo>
     <icon>https://regent0.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Regent</rights>
+    <entry>
+        <title type="html"><![CDATA[人生在世，必须了解的沟通心理技巧]]></title>
+        <id>https://regent0.github.io/post/ren-sheng-zai-shi-bi-xu-liao-jie-de-gou-tong-xin-li-ji-qiao/</id>
+        <link href="https://regent0.github.io/post/ren-sheng-zai-shi-bi-xu-liao-jie-de-gou-tong-xin-li-ji-qiao/">
+        </link>
+        <updated>2021-04-16T07:46:31.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“没时间” 不是借口]]></title>
         <id>https://regent0.github.io/post/mei-shi-jian-bu-shi-jie-kou/</id>
