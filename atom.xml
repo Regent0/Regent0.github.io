@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://regent0.github.io</id>
     <title>Regent</title>
-    <updated>2021-04-16T07:47:43.641Z</updated>
+    <updated>2021-05-05T15:25:51.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://regent0.github.io"/>
     <link rel="self" href="https://regent0.github.io/atom.xml"/>
@@ -11,65 +11,73 @@
     <icon>https://regent0.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Regent</rights>
     <entry>
-        <title type="html"><![CDATA[人生在世，必须了解的沟通心理技巧]]></title>
-        <id>https://regent0.github.io/post/ren-sheng-zai-shi-bi-xu-liao-jie-de-gou-tong-xin-li-ji-qiao/</id>
-        <link href="https://regent0.github.io/post/ren-sheng-zai-shi-bi-xu-liao-jie-de-gou-tong-xin-li-ji-qiao/">
+        <title type="html"><![CDATA[写给自学者的入门指南]]></title>
+        <id>https://regent0.github.io/post/xie-gei-zi-xue-zhe-de-ru-men-zhi-nan/</id>
+        <link href="https://regent0.github.io/post/xie-gei-zi-xue-zhe-de-ru-men-zhi-nan/">
         </link>
-        <updated>2021-04-16T07:46:31.000Z</updated>
+        <updated>2021-05-05T15:19:01.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“没时间” 不是借口]]></title>
-        <id>https://regent0.github.io/post/mei-shi-jian-bu-shi-jie-kou/</id>
-        <link href="https://regent0.github.io/post/mei-shi-jian-bu-shi-jie-kou/">
+        <title type="html"><![CDATA[学会学习]]></title>
+        <id>https://regent0.github.io/post/xue-hui-xue-xi/</id>
+        <link href="https://regent0.github.io/post/xue-hui-xue-xi/">
         </link>
-        <updated>2021-04-05T16:31:22.000Z</updated>
+        <updated>2021-05-05T15:14:58.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[42个锻炼大脑的方法，你想不聪明都不行！]]></title>
-        <id>https://regent0.github.io/post/42-ge-duan-lian-da-nao-de-fang-fa-ni-xiang-bu-cong-ming-du-bu-xing/</id>
-        <link href="https://regent0.github.io/post/42-ge-duan-lian-da-nao-de-fang-fa-ni-xiang-bu-cong-ming-du-bu-xing/">
+        <title type="html"><![CDATA[不灌鸡汤，年龄渐长，技术人的发展之路该怎么走？]]></title>
+        <id>https://regent0.github.io/post/bu-guan-ji-tang-nian-ling-jian-chang-ji-zhu-ren-de-fa-zhan-zhi-lu-gai-zen-me-zou/</id>
+        <link href="https://regent0.github.io/post/bu-guan-ji-tang-nian-ling-jian-chang-ji-zhu-ren-de-fa-zhan-zhi-lu-gai-zen-me-zou/">
         </link>
-        <updated>2021-04-05T16:29:51.000Z</updated>
+        <updated>2021-05-05T15:11:09.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[你凭什么能过上你想要的生活？]]></title>
-        <id>https://regent0.github.io/post/ni-ping-shi-me-neng-guo-shang-ni-xiang-yao-de-sheng-huo/</id>
-        <link href="https://regent0.github.io/post/ni-ping-shi-me-neng-guo-shang-ni-xiang-yao-de-sheng-huo/">
+        <title type="html"><![CDATA[每一个日子，都有不进则退的影子]]></title>
+        <id>https://regent0.github.io/post/mei-yi-ge-ri-zi-du-you-bu-jin-ze-tui-de-ying-zi/</id>
+        <link href="https://regent0.github.io/post/mei-yi-ge-ri-zi-du-you-bu-jin-ze-tui-de-ying-zi/">
         </link>
-        <updated>2021-04-05T16:28:19.000Z</updated>
+        <updated>2021-05-05T15:09:39.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用A4纸笔记法100天增强逻辑思维]]></title>
-        <id>https://regent0.github.io/post/shi-yong-a4-zhi-bi-ji-fa-100-tian-zeng-qiang-luo-ji-si-wei/</id>
-        <link href="https://regent0.github.io/post/shi-yong-a4-zhi-bi-ji-fa-100-tian-zeng-qiang-luo-ji-si-wei/">
+        <title type="html"><![CDATA[请一定保持对这个世界的偏见和好奇心]]></title>
+        <id>https://regent0.github.io/post/qing-yi-ding-bao-chi-dui-zhe-ge-shi-jie-de-pian-jian-he-hao-qi-xin/</id>
+        <link href="https://regent0.github.io/post/qing-yi-ding-bao-chi-dui-zhe-ge-shi-jie-de-pian-jian-he-hao-qi-xin/">
         </link>
-        <updated>2021-04-05T16:13:39.000Z</updated>
+        <updated>2021-05-05T15:08:19.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[快速进入]]></title>
-        <id>https://regent0.github.io/post/kuai-su-jin-ru/</id>
-        <link href="https://regent0.github.io/post/kuai-su-jin-ru/">
+        <title type="html"><![CDATA[好好珍惜那个能秒回你的人]]></title>
+        <id>https://regent0.github.io/post/hao-hao-zhen-xi-na-ge-neng-miao-hui-ni-de-ren/</id>
+        <link href="https://regent0.github.io/post/hao-hao-zhen-xi-na-ge-neng-miao-hui-ni-de-ren/">
         </link>
-        <updated>2020-06-19T18:04:24.000Z</updated>
+        <updated>2021-05-05T15:04:31.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6666]]></title>
-        <id>https://regent0.github.io/post/6666/</id>
-        <link href="https://regent0.github.io/post/6666/">
+        <title type="html"><![CDATA[选一个情绪稳定的恋人有多重要？]]></title>
+        <id>https://regent0.github.io/post/xuan-yi-ge-qing-xu-wen-ding-de-lian-ren-you-duo-chong-yao/</id>
+        <link href="https://regent0.github.io/post/xuan-yi-ge-qing-xu-wen-ding-de-lian-ren-you-duo-chong-yao/">
         </link>
-        <updated>2020-03-21T13:45:12.000Z</updated>
+        <updated>2021-05-05T15:03:11.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://regent0.github.io/post/hello-gridea/</id>
-        <link href="https://regent0.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[是什么决定了我们以何种方式赚钱？]]></title>
+        <id>https://regent0.github.io/post/shi-shi-me-jue-ding-liao-wo-men-yi-he-chong-fang-shi-zhuan-qian/</id>
+        <link href="https://regent0.github.io/post/shi-shi-me-jue-ding-liao-wo-men-yi-he-chong-fang-shi-zhuan-qian/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
+        <updated>2021-05-05T14:54:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[长期接受碎片化信息，会有什么后果？]]></title>
+        <id>https://regent0.github.io/post/chang-qi-jie-shou-sui-pian-hua-xin-xi-hui-you-shi-me-hou-guo/</id>
+        <link href="https://regent0.github.io/post/chang-qi-jie-shou-sui-pian-hua-xin-xi-hui-you-shi-me-hou-guo/">
+        </link>
+        <updated>2021-05-05T14:53:14.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生命中最简单而又最困难的事情]]></title>
+        <id>https://regent0.github.io/post/sheng-ming-zhong-zui-jian-dan-er-you-zui-kun-nan-de-shi-qing/</id>
+        <link href="https://regent0.github.io/post/sheng-ming-zhong-zui-jian-dan-er-you-zui-kun-nan-de-shi-qing/">
+        </link>
+        <updated>2021-05-05T14:50:28.000Z</updated>
     </entry>
 </feed>
