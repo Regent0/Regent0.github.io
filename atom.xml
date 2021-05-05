@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://regent0.github.io</id>
     <title>Regent</title>
-    <updated>2021-05-05T15:31:38.793Z</updated>
+    <updated>2021-05-05T16:46:45.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://regent0.github.io"/>
     <link rel="self" href="https://regent0.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://regent0.github.io/images/avatar.png</logo>
     <icon>https://regent0.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Regent</rights>
+    <entry>
+        <title type="html"><![CDATA[提高数学做题速度的七大绝招，不可错过！]]></title>
+        <id>https://regent0.github.io/post/ti-gao-shu-xue-zuo-ti-su-du-de-qi-da-jue-zhao-bu-ke-cuo-guo/</id>
+        <link href="https://regent0.github.io/post/ti-gao-shu-xue-zuo-ti-su-du-de-qi-da-jue-zhao-bu-ke-cuo-guo/">
+        </link>
+        <updated>2021-05-05T16:45:05.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[写给自学者的入门指南]]></title>
         <id>https://regent0.github.io/post/xie-gei-zi-xue-zhe-de-ru-men-zhi-nan/</id>
@@ -72,12 +79,5 @@
         <link href="https://regent0.github.io/post/chang-qi-jie-shou-sui-pian-hua-xin-xi-hui-you-shi-me-hou-guo/">
         </link>
         <updated>2021-05-05T14:53:14.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生命中最简单而又最困难的事情]]></title>
-        <id>https://regent0.github.io/post/sheng-ming-zhong-zui-jian-dan-er-you-zui-kun-nan-de-shi-qing/</id>
-        <link href="https://regent0.github.io/post/sheng-ming-zhong-zui-jian-dan-er-you-zui-kun-nan-de-shi-qing/">
-        </link>
-        <updated>2021-05-05T14:50:28.000Z</updated>
     </entry>
 </feed>
